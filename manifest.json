@@ -1,0 +1,9 @@
+{
+    "theme_color" : "#f69435",
+    "background_color" : "#f69435",
+    "display" : "minimal-ui",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "BSIC manager",
+    "short_name" : "bsic"
+    }
