@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        checkCameraPermission()
+        //checkCameraPermission()
 
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
