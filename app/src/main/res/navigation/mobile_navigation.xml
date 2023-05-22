@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.zam.bsic.ui.qrcode.qrcodeFragment"
+        android:name="com.zam.bsic.ui.qrcode.QrcodeFragment"
         android:label="@string/title_qrcode"
         tools:layout="@layout/fragment_qrcode" />
 </navigation>
